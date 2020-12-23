@@ -223,6 +223,7 @@ void PrintTokenList() {
 }
 
 void DeleteToken(Lexem * tok) {
+    free(tok->name);
     free(tok);
 }
 
