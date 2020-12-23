@@ -1,0 +1,3 @@
+/Users/dilshod/CLionProjects/cedu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dilshod/CLionProjects/cedu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dilshod/CLionProjects/cedu/cmake-build-debug/CMakeFiles/cedu.dir
