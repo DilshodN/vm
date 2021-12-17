@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cedu.dir/main.c.o CMakeFiles/cedu.dir/lexer.c.o CMakeFiles/cedu.dir/parser.c.o CMakeFiles/cedu.dir/interpretator.c.o CMakeFiles/cedu.dir/run.c.o  -o cedu 
