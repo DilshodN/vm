@@ -1,2 +1,1 @@
-# vm
-RISC-5 parody
+# RISC-V Assembler Interpreter 
